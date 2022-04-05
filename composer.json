@@ -1,0 +1,26 @@
+{
+    "name": "insightful-pro/porte-monnaie-module",
+    "description": "",
+    "version": "1.0.0",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Hosni Marouk",
+            "email": "hosni.mabrouk@gmail.com"
+        }
+    ],
+
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PorteMonnaie\\": ""
+        }
+    }
+}
